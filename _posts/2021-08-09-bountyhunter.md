@@ -29,8 +29,11 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 ### dirsearch
 
-/resources
-/db.php
+Dizin taraması yaptığımızda aşağıda ki dizinler dikkatimizi çekiyor.
+
+`/resources`
+
+`/db.php`
 
 ### Web Enumeration
 
