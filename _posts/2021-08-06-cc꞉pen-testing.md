@@ -1,8 +1,8 @@
 ---
-tags: [THM]
-title: 'CC:Pen Testing'
-created: '2021-08-06T08:29:32.614Z'
-modified: '2021-08-06T10:03:22.716Z'
+layout: post
+title:  "CC:Pen-Testing"
+date:   2021-08-05 14:32:04 +0700
+categories: [OSCP, THM]
 ---
 
 # CC:Pen Testing
