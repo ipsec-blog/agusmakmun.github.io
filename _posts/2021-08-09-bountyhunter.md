@@ -29,9 +29,6 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 ### dirsearch
 
-![IMAGE]Clipboard_2021-08-08-21-39-10.png)
-
-
 /resources
 /db.php
 
