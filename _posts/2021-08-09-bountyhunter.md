@@ -6,8 +6,6 @@ created: '2021-08-08T18:37:10.527Z'
 modified: '2021-08-09T09:32:18.426Z'
 ---
 
-# Bountyhunter
-
 ## Enumeration
 
 ### Nmap
