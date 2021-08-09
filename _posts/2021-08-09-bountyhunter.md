@@ -11,7 +11,7 @@ modified: '2021-08-09T09:32:18.426Z'
 ## Enumeration
 
 ### Nmap
-
+```
 PORT   STATE SERVICE REASON         VERSION
 22/tcp open  ssh     syn-ack ttl 63 OpenSSH 8.2p1 Ubuntu 4ubuntu0.2 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey: 
@@ -28,7 +28,7 @@ PORT   STATE SERVICE REASON         VERSION
 |_http-server-header: Apache/2.4.41 (Ubuntu)
 |_http-title: Bounty Hunters
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
-
+```
 ### dirsearch
 
 ![IMAGE](@attachment/Clipboard_2021-08-08-21-39-10.png)
