@@ -5,7 +5,6 @@ date:   2021-08-05 14:32:04 +0700
 categories: [OSCP, THM]
 ---
 
-# CC:Pen Testing
 
 Bu aşamada temel olarak belirli yöntemler kullanılmaktadır. ```Sosyal Medya, Shodan, Nmap, Nessus, Dig``` gibi araçlar kullanılarak sistemler hakkında bilgi toplanır ve OSINT yöntemleri kullanılarak da şirket çalışanları ve kurum hakkında bilgi toplanabilir. Hedefimiz bir Tryhackme platformunda bulunan **CC:Pen Testing** makinesi. 
 
