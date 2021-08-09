@@ -132,7 +132,7 @@ ubuntu@ip-xxx-xx-x-xxx:/var/www/html$
 Finally, after domain validation was configured after waiting a configuration,
 the SSL Provider will provide you the some keys, eg: `rootCert`, `interCert`, `X509Cert` and etc.
 
-![ssl information](https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/_posts/ssl2.png)
+![security information](https://dijibayt.com/wp-content/uploads/2020/11/bigstock-Internet-Security-Firewall-Or-326464240_1024X684.png)
 
 Combine that `X509Cert` and `interCert` as `mydomain.com.crt` file.
 **NOTE: Please put it in order _(1:X509Cert, 2:interCert)_**
