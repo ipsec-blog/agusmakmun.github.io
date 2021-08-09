@@ -24,7 +24,7 @@ Makinemizde nmap taraması yaptığımızda ```80``` portunun açık olduğunu g
 * Site **wordpress** tabanlı ise ```wpscan``` aracı kullanılabilir.
 * ```Metasploit``` ile ilgili zaafiyet araması yapılabilir.
 * İlgili zaafiyet için ```Nmap``` script havuzuna bakılabilir.
----
+
 ## Exploiting
 
 Bu kısımda öncesinde topladığımız bilgiler ve bulunan zafiyetler kullanılarak sistem üzerinde bir yetki elde edilmeye çalışılmaktadır. Amaç sistemler üzerinde bulunan güvenlik duvarı, saldırı tespit ve engelleme sistemleri gibi önlemleri atlatarak sistem üzerinde bulunan kaynaklara erişim sağlamaktır.
