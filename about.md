@@ -3,7 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
-
-email: agus[at]python.web.id
+Evli, üç çocuk babası, Jeoloji Mühendisi... `Security` ile ilgili, `HTB & THM` sever, **OSCP** hedefine doğru durmak yok devam...
+email: ipsec[at]yaani[dot]com
