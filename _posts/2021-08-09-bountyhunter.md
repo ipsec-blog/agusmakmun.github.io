@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bountyhunter"
-date:   2020-04-07 14:32:04 +0700
+date:   2021-04-07 14:32:04 +0700
 categories: [OSCP, HTB]
 ---
 
