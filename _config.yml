@@ -1,7 +1,7 @@
 title: IPsec Blog
 description: Security Blog
 author: IPsec
-github: https://github.com/agusmakmun
+github: https://github.com/ipsec-blog
 about: Security Researcher - IT Tech
 disqus_shortname: ipsecblog
 google_analytics: UA-XXXXXXXX-Y
@@ -15,31 +15,29 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
+    - icon: fa-instagram
+      link: "https://www.instagram.com/ipsec0/"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/1ps3c"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/ali-mert-u-066065198/"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/ipsec-blog"
 
 share:
-  twitter_username: github.io
+  twitter_username: 1ps3c
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: About
       url: /about/
-    - text: My Projects
+    - text: Projects
       url: /projects/
     - text: XML Feed
       url: /feed.xml
 
 url: "https://agusmakmun.github.io"
-baseurl: "https://ipsec-blog.github.io/agusmakmun.github.io/"
+baseurl: "https://ipsec-blog.github.io/ipsec-blog.github.io/"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
