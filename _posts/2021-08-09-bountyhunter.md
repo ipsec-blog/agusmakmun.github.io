@@ -1,9 +1,8 @@
 ---
-attachments: [Clipboard_2021-08-08-21-39-10.png]
-tags: [HTB]
-title: Bountyhunter
-created: '2021-08-08T18:37:10.527Z'
-modified: '2021-08-09T09:32:18.426Z'
+layout: post
+title:  "Bountyhunter"
+date:   2020-04-07 14:32:04 +0700
+categories: [OSCP, HTB]
 ---
 
 ## Enumeration
