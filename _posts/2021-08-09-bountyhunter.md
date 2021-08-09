@@ -29,7 +29,8 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 ### dirsearch
 
-![IMAGE](@attachment/Clipboard_2021-08-08-21-39-10.png)
+![IMAGE]Clipboard_2021-08-08-21-39-10.png)
+
 
 /resources
 /db.php
@@ -54,9 +55,9 @@ Ssh bağlantısı ile sisteme bağlandıktan sonra user.txt dosyamızı okuyabil
 
 Biraz dizin taraması yaptıktan sonra sistemde tek kullanıcı olduğunu göreceksiniz. 
 
-Yetki yükseltmek için **`sudo -l`** komutunun çıktısını kontrol edebiliriz.
+Yetki yükseltmek için `sudo -l` komutunun çıktısını kontrol edebiliriz.
 
-Çıktıyı araştırdığımızda **`python`** dosyasının **root** parolası istemeden çalıştırılabileceğini görüyoruz.
+Çıktıyı araştırdığımızda `python` dosyasının **root** parolası istemeden çalıştırılabileceğini görüyoruz.
 
 Ancak çıktıda ki dizini kontrol edip python dosyası çalıştırılmadan önce kodlar okunarak yetki yükseltmeye sebep olacak şekilde konfigüre edilmeli.
 
